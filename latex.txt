@@ -1,0 +1,11 @@
+\[
+\begin{array}{l}
+m = 
+\end{array}
+\]
+
+\[
+\begin{array}{l}
+S(x) = \frac{1}{1+e^{-x}}
+\end{array}
+\]
