@@ -1,11 +1,27 @@
 \[
 \begin{array}{l}
-m = 
+m = 1.4x+0.5\\n = 0.5m + 1.2
 \end{array}
 \]
 
 \[
 \begin{array}{l}
-S(x) = \frac{1}{1+e^{-x}}
+n = 0.5(1.4x + 0.5) + 1.2\\n = 0.7x + 1.45
+\end{array}
+\]
+
+\[
+\begin{array}{l}
+\text{ReLU(x)} =
+\begin{cases}
+x &\text{if x $>$ 0} \\ 
+0 &\text{else} 
+\end{cases}
+\end{array}
+\]
+
+\[
+\begin{array}{l}
+\text{ReLU(x)} = \text{max(0, x)}
 \end{array}
 \]
